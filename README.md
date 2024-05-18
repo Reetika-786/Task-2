@@ -1,4 +1,3 @@
 # Task-2
-merge conflicts -1
-
+conflicts resolved!
 
